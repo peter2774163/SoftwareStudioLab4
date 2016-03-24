@@ -15,4 +15,5 @@ SoftwareStudio Lab4 2016
 
 #Screenshot
 
-
+![alt tag](/lab4_1.jpeg)
+![alt tag](/lab4_2.jpeg)
