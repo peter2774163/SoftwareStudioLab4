@@ -15,4 +15,4 @@ SoftwareStudio Lab4 2016
 
 #Screenshot
 
-![alt tag](/csc.png)
+
